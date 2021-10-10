@@ -29,8 +29,8 @@ Short Form    | Long Form     | Description
 -v            | --verbose     | Enable verbose mode and show error messages
 -t            | --threads     | Number of threads to use. Default 10
 -k            | --allow-insecure | Allow insecure server connections when using SSL
--            | --timeout      | Maximum timeout of each request. Default 25 seconds.
--a            | --accept-new-domain      | Show urls that redirect to new domain name (i.e., googleparkedurl.com -> google.com). Disable this if your target redirects all parked host to a single domain. (Default true)
+&nbsp;            | --timeout      | Maximum timeout of each request. Default 25 seconds.
+-a            | --accept-new-domain | Show urls that redirect to new domain name (i.e., googleparkedurl.com -> google.com). Disable this if your target redirects all parked host to a single domain. (Default true)
 -h            | --help        | show the help message and exit
 
 ![usage](https://user-images.githubusercontent.com/5277742/136683803-5d3944a0-4022-4d54-aaa3-40bc1bbaae4f.png)
