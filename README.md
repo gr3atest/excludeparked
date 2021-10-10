@@ -2,7 +2,7 @@
 
 A lightweight Python 3 script that filters out parked HTTP domains from a list of domains. Useful when pulling a list of domains from a reverse WHOIS lookup service (from a tool such as [WHOXY](https://www.whoxy.com/reverse-whois/)).
 
-This was tested on a list of 100k parked domains but it's subject to improvement. If you'd like to improve the parked domain pattern matching regex, please create a pull request or create an issue and I'll get to it ASAP :)
+This was tested on a list of 100k parked domains but it's subject to improvement as this tool is intended to be a rough method of filtering down thousands of domains in the recon phase of a pentest. If you'd like to improve the parked domain pattern matching regex, please create a pull request or create an issue and I'll get to it ASAP :)
 
 ![example](https://user-images.githubusercontent.com/5277742/136683862-973cdb0a-8481-4a78-a3d2-70a18023b314.png)
 
